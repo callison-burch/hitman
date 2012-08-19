@@ -1,3 +1,4 @@
+//For MTurk, cookies must be saved at the root / top level of the domain.
 if ($.cookie(survey_name)!=null)
     {
 
